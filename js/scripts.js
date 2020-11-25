@@ -28,7 +28,7 @@ window.onload = function() {
     'I like working with people.<br> You can contact me at <a href="mailto:swatish.choudhury@gmail.com">swatish.choudhury@gmail.com</a>',
     '<a target="_blank" href="https://www.linkedin.com/in/swatishchoudhury">linkedin.com/in/swatishchoudhury</a><br><a target="_blank" href="https://github.com/Swatishchoudhury">github.com/Swatishchoudhury</a><br><a target="_blank" href="https://swatishchoudhury.github.io/blog">swatishchoudhury.github.io/blog</a>',
     getCurrentTime(),
-    'sike.'
+    'swatish.'
   ]
 
   var getFontSize = function() {
